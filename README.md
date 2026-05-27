@@ -1,4 +1,10 @@
-# 🔥**KODE** 
-is a decentralized desktop/mobile app store that transforms GitHub into an App Store without intermediaries, central moderation, or tracking. No analysts, no corporate directories, no vendor lock-in. Any public repository with releases automatically becomes a "product" in the catalog, and repository owners receive distribution, verification, and torrent seeding tools directly from their browser.
+# ⌬**KODE.MARKET** 
+**KODE.market** is the decentralized web/desktop/mobile app store for GitHub & GitLab. It transforms public repositories into a secure, App Store-like catalog—without intermediaries, moderation, or tracking.
 
-This isn't a Google Play clone. It's an **anti-App Store**—where the catalog is the entire GitHub/GitLab, verification is open (via VirusTotal), and file distribution is hybrid (HTTP + BitTorrent + WebSeed).
+This isn’t a Google Play clone. It’s an anti-App Store:
+- **Catalog:** The entire GitHub/GitLab ecosystem, auto-indexed.
+- **Trust:** Open verification via SHA-256 & VirusTotal.
+- **Distribution:** Hybrid HTTP + WebTorrent + WebSeed for resilience.
+
+Any repo with releases becomes a product. Developers get native distribution tools directly from their browser.
+No vendor lock-in. Just code.
